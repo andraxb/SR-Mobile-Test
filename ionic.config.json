@@ -1,0 +1,8 @@
+{
+  "name": "SR-Mobile-Test",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "5c1b8f3f"
+}
